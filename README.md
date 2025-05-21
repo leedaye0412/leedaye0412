@@ -1,5 +1,5 @@
 # Hello! I’m daye👋🏻  
-### I'm a FrontEnd developer from korea.
+### I'm a Frontend developer from korea.
 
 <div align="center">
 
